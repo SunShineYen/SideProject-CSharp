@@ -1,2 +1,2 @@
-# SideProject-C-
+# SideProject-CSharp
 SideProject for C# Concepts
