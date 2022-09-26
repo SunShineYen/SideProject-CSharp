@@ -1,0 +1,15 @@
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\bin\Debug\net6.0\202209026-HttpClient.exe
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\bin\Debug\net6.0\202209026-HttpClient.deps.json
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\bin\Debug\net6.0\202209026-HttpClient.runtimeconfig.json
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\bin\Debug\net6.0\202209026-HttpClient.dll
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\bin\Debug\net6.0\202209026-HttpClient.pdb
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\obj\Debug\net6.0\202209026-HttpClient.csproj.AssemblyReference.cache
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\obj\Debug\net6.0\202209026-HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\obj\Debug\net6.0\202209026-HttpClient.AssemblyInfoInputs.cache
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\obj\Debug\net6.0\202209026-HttpClient.AssemblyInfo.cs
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\obj\Debug\net6.0\202209026-HttpClient.csproj.CoreCompileInputs.cache
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\obj\Debug\net6.0\202209026-HttpClient.dll
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\obj\Debug\net6.0\refint\202209026-HttpClient.dll
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\obj\Debug\net6.0\202209026-HttpClient.pdb
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\obj\Debug\net6.0\202209026-HttpClient.genruntimeconfig.cache
+D:\Users\63496\Desktop\SideProject-CSharp\SideProject-CSharp\202209026-HttpClient\obj\Debug\net6.0\ref\202209026-HttpClient.dll
