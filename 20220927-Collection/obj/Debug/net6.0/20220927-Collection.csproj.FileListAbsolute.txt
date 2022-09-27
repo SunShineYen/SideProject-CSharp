@@ -1,0 +1,15 @@
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\obj\Debug\net6.0\20220927-Collection.csproj.AssemblyReference.cache
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\obj\Debug\net6.0\20220927-Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\obj\Debug\net6.0\20220927-Collection.AssemblyInfoInputs.cache
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\obj\Debug\net6.0\20220927-Collection.AssemblyInfo.cs
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\obj\Debug\net6.0\20220927-Collection.csproj.CoreCompileInputs.cache
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\bin\Debug\net6.0\20220927-Collection.exe
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\bin\Debug\net6.0\20220927-Collection.deps.json
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\bin\Debug\net6.0\20220927-Collection.runtimeconfig.json
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\bin\Debug\net6.0\20220927-Collection.dll
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\bin\Debug\net6.0\20220927-Collection.pdb
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\obj\Debug\net6.0\20220927-Collection.dll
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\obj\Debug\net6.0\refint\20220927-Collection.dll
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\obj\Debug\net6.0\20220927-Collection.pdb
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\obj\Debug\net6.0\20220927-Collection.genruntimeconfig.cache
+D:\Users\63496\Desktop\SideProject-CSharp\20220927-Collection\obj\Debug\net6.0\ref\20220927-Collection.dll
