@@ -1,0 +1,15 @@
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\bin\Debug\net6.0\202209027-HttpClient.exe
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\bin\Debug\net6.0\202209027-HttpClient.deps.json
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\bin\Debug\net6.0\202209027-HttpClient.runtimeconfig.json
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\bin\Debug\net6.0\202209027-HttpClient.dll
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\bin\Debug\net6.0\202209027-HttpClient.pdb
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\obj\Debug\net6.0\202209027-HttpClient.csproj.AssemblyReference.cache
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\obj\Debug\net6.0\202209027-HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\obj\Debug\net6.0\202209027-HttpClient.AssemblyInfoInputs.cache
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\obj\Debug\net6.0\202209027-HttpClient.AssemblyInfo.cs
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\obj\Debug\net6.0\202209027-HttpClient.csproj.CoreCompileInputs.cache
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\obj\Debug\net6.0\202209027-HttpClient.dll
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\obj\Debug\net6.0\refint\202209027-HttpClient.dll
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\obj\Debug\net6.0\202209027-HttpClient.pdb
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\obj\Debug\net6.0\202209027-HttpClient.genruntimeconfig.cache
+D:\Users\63496\Desktop\SideProject-CSharp\202209027-HttpClient\obj\Debug\net6.0\ref\202209027-HttpClient.dll
